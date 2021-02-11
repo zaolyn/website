@@ -170,3 +170,8 @@ h2 {
 .improvements {
     margin-bottom: 30px;
 }
+
+.fb {
+    position: relative;
+    top: 6px
+}
