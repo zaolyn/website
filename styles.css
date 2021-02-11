@@ -24,9 +24,6 @@ h2 {
 .top-container {
     position: relative;
     padding-top: 100px;
-    background-image: url("https://lh3.googleusercontent.com/proxy/2ouoIkyxP7wkMMWMk1jeLwF6WfwoNOgmLproR0rIScOFAPfYCrvDTB7vXOnesuoYTt8Z5z9uSizq-xBnPeUcbQ7lNAtdlhkjwOUdHzlNrs3QdPzFEd7cJrT_yG03GTjEnpUmVfugz8rOS05we1cj-fqWXFvanwbELrQxhQqQkLHBmgPK7HzrnIkvGnSAf6_wNEzHwhtPJuQecTEEKPSwQL4");
-    background-repeat: no-repeat;
-    background-size: 100%;
 }
 
 .top-cloud {
@@ -172,6 +169,6 @@ h2 {
     top: 6px;
 }
 .help-description {
-    margin-top: 20px;
-    margin-bottom: 40px;
+    margin-top: 50px;
+    margin-bottom: 50px;
 }
