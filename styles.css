@@ -1,0 +1,169 @@
+body {
+    margin: 0;
+    text-align: center;
+    font-family: 'Comfortaa', cursive;
+    background-image: url(bg.jpg);
+    background-size: 100%;
+    background-position: fixed;
+}
+
+h1 {
+    color: #11999e;
+    margin: 50px auto 0 auto;
+    font-size: 4rem;
+    font-family: 'Hachi Maru Pop', cursive;
+}
+
+h2 {
+    color: #66BFBF;
+    font-size: 2.5rem;
+    margin-bottom: 0;
+    margin-top: 0;
+}
+
+.top-container {
+    position: relative;
+    padding-top: 100px;
+    background-image: url("https://lh3.googleusercontent.com/proxy/2ouoIkyxP7wkMMWMk1jeLwF6WfwoNOgmLproR0rIScOFAPfYCrvDTB7vXOnesuoYTt8Z5z9uSizq-xBnPeUcbQ7lNAtdlhkjwOUdHzlNrs3QdPzFEd7cJrT_yG03GTjEnpUmVfugz8rOS05we1cj-fqWXFvanwbELrQxhQqQkLHBmgPK7HzrnIkvGnSAf6_wNEzHwhtPJuQecTEEKPSwQL4");
+    background-repeat: no-repeat;
+    background-size: 100%;
+}
+
+.top-cloud {
+    position: absolute;
+    right: 300px;
+    top: 50px;
+}
+
+.bottom-cloud {
+    position: absolute;
+    left: 300px;
+    bottom: 300px;
+}
+
+.skill-image {
+    padding-bottom: 30px;
+    padding-top: 50px;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 40%;
+}
+
+.hacktoberfest-image {
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 40%;
+    height: 40%;
+}
+
+.skill1-name {
+    margin: 10px;
+}
+
+.achievement-title {
+    text-align: center;
+}
+
+.achievement-intro {
+    margin-top: 20px;
+}
+
+.skill1-intro {
+    margin-top: 0;
+    margin-bottom: 20px;
+}
+
+.border1 {
+    border-style: none;
+    border-top: solid;
+}
+
+.skill-heading {
+    margin: 20px;
+}
+
+.darkgreen {
+    position: relative;
+    top: 10px;
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    color: #11999e;
+    margin-top: 50px;
+    size: 3rem;
+}
+
+.darkgreen1 {
+    position: relative;
+    top: 10px;
+    font-family: 'Comfortaa', cursive;
+    text-align: center;
+    color: #11999E;
+    margin-bottom: 50px;
+    margin-top: 50px;
+    size: 3rem;
+}
+
+.learner {
+    margin-top: 20px;
+}
+
+.skill-row {
+    width: 50%;
+    margin: 30px auto 30px auto;
+    text-align: left;
+}
+
+.dotted {
+    margin-top: 73px;
+    border-style: none;
+    border-top-style: dotted;
+    border-color: grey;
+    border-width: 9px;
+    width: 5%;
+}
+
+.profile-picture {
+    margin-top: 20px;
+    height: 250px;
+    width: 250px;
+}
+
+.greeting {
+    margin-bottom: 20px;
+}
+
+.btn {
+    -webkit-border-radius: 28;
+    -moz-border-radius: 28;
+    border-radius: 28px;
+    font-family: 'Comfortaa', cursive;
+    color: #ffffff;
+    font-size: 20px;
+    background: #11999E;
+    padding: 15px 15px 15px 15px;
+    text-decoration: none;
+}
+
+.btn:hover {
+    background: #66bfbf;
+    text-decoration: none;
+}
+
+.bottom-container {
+    padding-top: 20px;
+    margin-bottom: 0;
+    margin-top: 50px;
+    background-color: #66bfbf;
+}
+
+.name {
+    padding-bottom: 10px;
+    margin-bottom: 0;
+}
+
+.improvements {
+    margin-bottom: 30px;
+}
