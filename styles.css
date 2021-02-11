@@ -159,6 +159,9 @@ h2 {
     background-color: #66bfbf;
 }
 
+.my-intro {
+    text-align: center;
+}
 .name {
     padding-bottom: 10px;
     margin-bottom: 0;
