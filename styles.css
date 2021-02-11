@@ -171,3 +171,7 @@ h2 {
     position: relative;
     top: 6px;
 }
+.help-description {
+    margin-top: 20px;
+    margin-bottom: 40px;
+}
