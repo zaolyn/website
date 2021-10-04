@@ -1,7 +1,7 @@
 body {
     margin: 0;
     text-align: center;
-    font-family: 'Comfortaa', cursive;
+    font-family: Arial, Helvetica, sans-serif;
     background-image: url(bg.jpg);
     background-size: 100%;
     background-position: fixed;
@@ -17,6 +17,7 @@ h1 {
 h2 {
     color: #66BFBF;
     font-size: 2.5rem;
+    font-weight: 600;
     margin-bottom: 0;
     margin-top: 0;
 }
@@ -130,23 +131,26 @@ h2 {
 
 .greeting {
     margin-bottom: 20px;
+    margin-top: 30px;
 }
 
 .btn {
     -webkit-border-radius: 28;
     -moz-border-radius: 28;
     border-radius: 28px;
-    font-family: 'Comfortaa', cursive;
-    color: #ffffff;
+    color: #fff;
     font-size: 20px;
     background: #11999E;
-    padding: 15px 15px 15px 15px;
+    padding: 16px 30px;
     text-decoration: none;
 }
 
 .btn:hover {
     background: #66bfbf;
-    text-decoration: none;
+}
+
+.btn:active {
+    background: #66bfbf;
 }
 
 .bottom-container {
@@ -158,6 +162,7 @@ h2 {
 
 .my-intro {
     text-align: center;
+    font-size: 25px;
 }
 .name {
     padding-bottom: 10px;
